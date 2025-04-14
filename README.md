@@ -1,4 +1,4 @@
-## Hi there 👋
+hello world.. In a world looking for a place to be who I am.
 
 <!--
 **Luanaraujodev/Luanaraujodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
